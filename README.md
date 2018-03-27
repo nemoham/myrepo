@@ -1,2 +1,4 @@
 # myrepo
-first repository by ramya
+The first repository
+Created by Ramya Gamidi
+this is for practise
